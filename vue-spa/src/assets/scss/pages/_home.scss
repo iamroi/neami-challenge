@@ -1,0 +1,15 @@
+.home-banner-row {
+    height: 415px;
+
+    .home-banner {
+        background: url("https://images.unsplash.com/photo-1517909277968-946dd06adf1e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80") no-repeat;
+        background-size: cover;
+        background-position: 50% 48%;
+    }
+}
+
+.product-image {
+    img {
+        width: 100%;
+    }
+}
